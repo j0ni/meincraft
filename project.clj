@@ -1,4 +1,4 @@
-(defproject meincraft "0.1.0-SNAPSHOT"
+(defproject ca.j0ni/meincraft "0.1.0-SNAPSHOT"
   :description "Bukkit Clojure Wrapper"
   :url "http://github.com/j0ni/meincraft"
   :license {:name "Gnu Public License"
